@@ -1,7 +1,7 @@
 # KAURA-PROJ-PROMPT-ENG-EBOOK-RECEITAS
 Ebook "Guia de Receitas" gerado por IA. Aplicação de Prompts Estruturados para ensinar o uso da IA para produtividade e liberdade pessoal.
 <p align="center">
-    <img width="100" src="./assets/kaura_logo.png" alt="Logotipo KAURA"> 
+    <img width="100" src="https://github.com/monicacruzs/KAURA-PROJ-PROMPT-ENG-EBOOK-RECEITAS/blob/main/assets/Logo%20Kaura%20INPI%20Colorida.png" alt="Logotipo KAURA"> 
 </p>
 
 <p align="center">
