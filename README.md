@@ -71,7 +71,7 @@ Abaixo estão os prompts estruturados criados para serem utilizados nos capítul
       align=left 
       margin=10 
       width=80 
-      src=https://avatars.githubusercontent.com/u/monicacruzs?v=4
+      src=https://avatars.githubusercontent.com/u/71937997?v=4
     />
     <p>&nbsp&nbsp&nbspMônica Cruz<br>
     &nbsp&nbsp&nbsp
