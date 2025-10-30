@@ -75,7 +75,7 @@ Abaixo estão os prompts estruturados criados para serem utilizados nos capítul
     />
     <p>&nbsp&nbsp&nbspMônica Cruz<br>
     &nbsp&nbsp&nbsp
-    <a href="SEU GITHUB AQUI">
+    <a href=github.com/monicacruzs>
     GitHub</a>&nbsp;|&nbsp;
     <a href=https://www.linkedin.com/in/m%C3%B4nicacruz/?locale=pt_BR>LinkedIn</a>
 &nbsp;|&nbsp;
