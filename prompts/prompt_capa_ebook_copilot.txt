@@ -1,0 +1,11 @@
+📘 Prompt estruturado para arte de capa de eBook com IA Generativa
+
+Copie e cole o prompt abaixo no Microsoft Copilot.
+
+Arte de capa de eBook com design flat e minimalista, estilo vetorial. 
+Uma mulher sorridente, com expressão acolhedora, vestindo um avental claro sobre uma blusa em tom quente (como laranja queimado), segurando uma colher de pau com a mão direita. 
+Ao fundo, um processador de alimentos futurista e mágico representa a IA Generativa — com o rótulo “AI” visível. 
+Do processador, saem elementos visuais como estrelas, partículas brilhantes e linhas curvas, sugerindo criatividade, magia e geração de ideias. 
+Paleta de cores pastéis modernas: rosa suave, lavanda, verde menta, azul claro e laranja queimado. 
+Fundo com textura de papel e formas orgânicas suaves. 
+Estilo vetorial, sem traços faciais detalhados, com foco na leveza, criatividade e protagonismo feminino.
