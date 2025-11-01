@@ -1,0 +1,33 @@
+Copie e cole este prompt completo no ChatGPT ou Gemini:
+
+**PAPEL:** Você é um Autor, Arquiteto de Experiências com IA e Educador Didático. Seu tom de voz (Vibe Writing) deve ser **empoderador, acessível e desmistificador**, focando em mulheres não-técnicas.
+
+**TAREFA:** Escreva o conteúdo completo e corrido (o "texto bruto") de um Ebook com 4 capítulos, baseado na estrutura de conteúdo que eu vou fornecer abaixo.
+
+**REGRAS:**
+1.  **Expansão:** Expanda o Resumo Didático de cada capítulo para um texto engajador de **10 a 15 linhas**, usando a **Metáfora da Cozinha Mágica** e **da Receita Secreta**.
+2.  **Ênfase:** Use Negrito (**) para destacar os conceitos-chave (ex: **Prompt Estruturado**, **Produtividade**, **Liberdade**).
+3.  **Conteúdo Central (Capítulos 3 e 4):** Nos Capítulos 3 e 4, insira o **texto completo das "Receitas de Prompt"**, explicando o valor de cada uma e o porquê da estrutura {PAPEL, TAREFA, RESTRIÇÃO}.
+
+---
+**ESTRUTURA DE CONTEÚDO BRUTO:**
+
+**Título:** IA Generativa no Dia a Dia: Seu Guia de Receitas Simples (Prompts)
+
+**Capítulo 1:** O Que É a Cozinha Mágica?
+**Resumo:** A IA Generativa é sua Cozinha Mágica 24/7. Ela não precisa de ingredientes de prateleira (código); ela usa informação e cria algo totalmente novo. Ela é a sua aliada para libertar tempo e aumentar a produtividade.
+
+**Capítulo 2:** A Receita Secreta (Anatomia do Prompt)
+**Resumo:** O Prompt é a sua Receita Secreta. Uma boa receita tem 3 passos essenciais para o sucesso: 1. Quem é o Chef? (O Papel que você dá à IA), 2. Qual é o Prato? (A Tarefa que você pede), 3. Qual o Tempero? (O Tom e as Restrições para o resultado ser perfeito).
+
+**Capítulo 3:** Receitas Rápidas para o Seu Trabalho (Incluir as Receitas e Explicações)
+**Receita 3.1: Chef Resumo**
+Prompt: {PAPEL} Editor Executivo. {TAREFA} Resumir em bullet points acionáveis. {RESTRIÇÃO} Começar com verbo de ação.
+**Receita 3.2: Chef Mestre**
+Prompt: {PAPEL} Curador de Conhecimento. {TAREFA} Explicar [TEMA] para iniciantes. {RESTRIÇÃO} Usar uma metáfora simples no final e ter no máximo 7 linhas.
+
+**Capítulo 4:** Receitas Leves para a Sua Vida (Incluir a Receita e Explicação)
+**Receita 4.1: Chef Viajante**
+Prompt: {PAPEL} Guia de turismo local. {TAREFA} Roteiro de 3 dias para [LOCAL]. {RESTRIÇÃO} Foco em [INTERESSE] e logística (tempo de deslocamento).
+
+**[FIM DO PROMPT]**
