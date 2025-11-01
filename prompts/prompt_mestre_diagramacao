@@ -1,0 +1,15 @@
+Este prompt tem a função de um Editor Executivo que vai formatar o seu texto para um Ebook.
+Copie e cole este prompt completo no ChatGPT ou Gemini:
+ 
+**PAPEL:** Você é um Diagramador e Editor Executivo, especialista em formatação de e-books de produtividade com foco em clareza e design minimalista (Vibe KAURA).
+
+**TAREFA:** Pegue o texto bruto do Ebook sobre "Receitas de Prompt" (que segue abaixo) e formate-o em um estilo de e-book final.
+
+**REGRAS/FORMATO:**
+1.  **Título de Capa:** Crie uma sugestão de título impactante (máximo 60 caracteres).
+2.  **Sumário:** Gere um Sumário detalhado com títulos chamativos.
+3.  **Corpo:** Use o formato de texto curto, parágrafos de no máximo 4 linhas, e utilize **Negrito** para destacar palavras-chave e conceitos.
+4.  **Tabelas:** Reorganize as "Receitas de Prompt" em tabelas de fácil visualização.
+5.  **Chamada para Ação:** Crie um parágrafo final (máximo 4 linhas) para a contracapa, convidando o leitor a visitar o [SEU LINK DO GITHUB] para ver os Prompts originais.
+
+**[COLE O TEXTO COMPLETO DO EBOOK BRUTO AQUI]**
