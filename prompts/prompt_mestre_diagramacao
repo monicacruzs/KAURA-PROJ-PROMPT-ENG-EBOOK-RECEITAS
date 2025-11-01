@@ -1,3 +1,13 @@
+🛠️ Passo a Passo para Executar o Prompt de Diagramação
+Você usará o ChatGPT ou Gemini para esta etapa.
+
+1. Reúna o Conteúdo Bruto
+   Antes de tudo, junte todo o seu conteúdo:
+   O texto da Introdução e Capítulos 1 e 2 (se você os gerou primeiro).
+   O texto das "Receitas" de Prompt (os exemplos de Chef Resumo, Chef Viajante, etc.).
+   O resultado deve ser um bloco de texto longo e não formatado que contém todo o material do Ebook.
+
+2. Copie o Prompt Mestre de Diagramação
 Este prompt tem a função de um Editor Executivo que vai formatar o seu texto para um Ebook.
 Copie e cole este prompt completo no ChatGPT ou Gemini:
  
@@ -13,3 +23,12 @@ Copie e cole este prompt completo no ChatGPT ou Gemini:
 5.  **Chamada para Ação:** Crie um parágrafo final (máximo 4 linhas) para a contracapa, convidando o leitor a visitar o [SEU LINK DO GITHUB] para ver os Prompts originais.
 
 **[COLE O TEXTO COMPLETO DO EBOOK BRUTO AQUI]**
+
+3. Execute o Prompt (O Segredo)
+   Abra uma nova conversa no ChatGPT ou Gemini.
+   Cole o Prompt Mestre de Diagramação na íntegra.
+   Na linha onde está [COLE O TEXTO COMPLETO DO EBOOK BRUTO AQUI], apague a frase e cole imediatamente todo o seu texto bruto do Ebook.
+   Pressione Enter/Enviar.
+
+4. Resultado (Ebook Finalizado para o Design)
+A IA retornará o texto totalmente estruturado e otimizado, incluindo o Sumário, a separação em tópicos, o uso de negrito para ênfase e as Receitas organizadas em tabelas.
