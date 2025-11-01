@@ -14,7 +14,7 @@ Ebook "Guia de Receitas" gerado por IA. Aplicação de Prompts Estruturados para
 
 <p align="center">
 <img 
-    src="./assets/capa_ebook_cozinha_magica.jpg"
+    src="https://github.com/monicacruzs/KAURA-PROJ-PROMPT-ENG-EBOOK-RECEITAS/blob/main/assets/Copilot_20251031_193834.png"
     width="400"  
     alt="Capa do Ebook KAURA: Guia de Receitas Simples"
 />
