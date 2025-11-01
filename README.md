@@ -6,7 +6,7 @@ Ebook "Guia de Receitas" gerado por IA. Aplicação de Prompts Estruturados para
 
 <p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="SEU GITHUB AQUI" title="Repositório Prompts"><img src="https://img.shields.io/badge/Prompt%20Engineering-Project-blue?logo=github" alt="Feito com Prompt Engineering"></a>
+<a href="https://github.com/monicacruzs/KAURA-PROJ-PROMPT-ENG-EBOOK-RECEITAS/blob/main/assets/Copilot_20251031_193834.png" title="Repositório Prompts"><img src="https://img.shields.io/badge/Prompt%20Engineering-Project-blue?logo=github" alt="Feito com Prompt Engineering"></a>
 <a href="https://github.com/monicacruzs/KAURA-PROJ-PROMPT-ENG-EBOOK-RECEITAS/blob/main/output/kaura_guia_de_prompts_receitas.pdf" title="Ler Ebook"><img src="https://img.shields.io/badge/EBOOK-Ler%20Agora-darkblue?logo=googledocs" alt="Ler Ebook"></a>
 </p>
 
